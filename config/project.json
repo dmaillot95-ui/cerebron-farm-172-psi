@@ -1,0 +1,15 @@
+{
+  "schema": "PSI_PROJECT_V1",
+  "farm_id": 172,
+  "project_id": "MODEL-PSI-001",
+  "role_id": "LATENT_BLINDSPOT_EXPLORER",
+  "status": "SCAFFOLDED_NOT_TRAINED",
+  "runtime_changed": false,
+  "weights_changed": false,
+  "training_authorized": false,
+  "shared_base_family": "CEREBRON_GREEK_SHARED_BASE",
+  "campaign_passes": 10,
+  "required_shared_tools": [
+    "PI-SEARCH"
+  ]
+}
